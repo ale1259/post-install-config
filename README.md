@@ -20,9 +20,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2
                                          
-                                         
-
-
+  - NOTE: All the emails and names is for the example. Ex: karen@osticket.com                                       
   - First we login with your user and password on the link for the helpdesk page http://localhost/osTicket/scp/login.php
    <img src="https://i.imgur.com/pe4GOKK.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    
@@ -63,17 +61,36 @@ Registration Required: Require registration and login to create tickets it's has
  - And let's assign Jane the new Role: "Supreme Admin" and Deparment: "System Administrators" we created and add extended access to "Support" Department, do the same with John but with Department "Support" and Role "All Access"
   <img src="https://i.imgur.com/GIsCdlx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
+ - Next a couple Users(customers) go back to Agent Panel -> Users -> User Directory -> Add New: Karen and Ken
+<img src="https://i.imgur.com/HV8Avmm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  <img src="https://i.imgur.com/dDeP1Fu.png)" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
+
+
+- Now baCK to Admin Panel to Configure SLA Admin Panel -> Manage -> SLA  
+
+<img src="https://i.imgur.com/hS9Bmhg.png)" height="60%" width="60%" alt="Disk Sanitization Steps"/> \
+- Add New SLA Plan: Sev-A (1 hour, 24/7), Sev-B (4 hours, 24/7), Sev-C (8 hours, business hours)
+
+<img src="https://i.imgur.com/FkIzHbw.png)" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+
+- Sev-A (1 hour, 24/7)
+<img src="https://i.imgur.com/EgCVOaY.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+ - Sev-B (4 hours, 24/7)
+<img src="https://i.imgur.com/4kYNjcy.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+- Sev-C (8 hours, business hours)
+<img src="https://i.imgur.com/8knTJ6K.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+- For the last step let's configure "Help Topics". Go to Admin Panel -> Manage -> Help Topics -> Add New Help Topic
+ <img src="https://i.imgur.com/Trpvbm1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+- "Business Critical Outage"
+ <img src="https://i.imgur.com/XByWPS4.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
+- And "Personal Computer Issues"
+ <img src="https://i.imgur.com/GzTY8eh.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+
   
-
- 
-
-
-
-- item
-
-- teimte
-
-- ietm
 
 -
 -
@@ -85,7 +102,7 @@ Registration Required: Require registration and login to create tickets it's has
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/GIsCdlx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GzTY8eh.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
