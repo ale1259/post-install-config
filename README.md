@@ -43,23 +43,24 @@ This tutorial outlines the post-install configuration of the open-source help de
  <img src="https://i.imgur.com/eSziVWN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 - Now we need a new team let's add Level II Suport
-  <img src="https://i.imgur.com/Au9e0q0.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ 
+  <img src="https://i.imgur.com/1A4lPzi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
-  <img src="https://i.imgur.com/9WTCawO.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/A4UNAuv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-- Now we need to allow anyone to create tickets go to Admin Panel -> Settings -> User Settings
+- Now we need to allow anyone to create tickets go to Admin Panel -> Settings -> Users -> Authentication Settings ->
 Registration Required: Require registration and login to create tickets it's has to be unchecked
-<img src="https://i.imgur.com/z7nSdZW.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mx93X4P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 - Now a couple Agents to add(workers) Admin Panel -> Agents -> Add New: Jane and John and set the password for each one you can use the same so you don't get confused 
- <img src="https://i.imgur.com/OfDUAtl.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
- <img src="https://i.imgur.com/EmWThu0.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/KBs8NB9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/1XlGgrO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
  - When setting the password unchecked "Send the agent a password reset email" and "Require password change at next login"
-  <img src="https://i.imgur.com/Ly64p7b.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  <img src="https://i.imgur.com/dJo4nWa.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
   
- - And let's assign Jane the new Role: "Supreme Admin" and Deparment: "System Administrators" we created and add extended access to "Support" Department, do the same with John but with Department "Support" and Role "All Access"
-  <img src="https://i.imgur.com/GIsCdlx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ - And let's assign Jane on the Access section the new Role: "Supreme Admin" and Deparment: "System Administrators" we created and add extended access to "Support" Department and Role "All Access", do the same with John but with Primary Department "Support" and Role "All Access" and no extended access
+  <img src="https://i.imgur.com/HqPvBUt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
  - Next a couple Users(customers) go back to Agent Panel -> Users -> User Directory -> Add New: Karen and Ken
 <img src="https://i.imgur.com/HV8Avmm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>  <img src="https://i.imgur.com/dDeP1Fu.png)" height="60%" width="60%" alt="Disk Sanitization Steps"/> 
