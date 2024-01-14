@@ -22,25 +22,25 @@ This tutorial outlines the post-install configuration of the open-source help de
                                          
   - NOTE: All the emails and names is for the example. Ex: karen@osticket.com                                       
   - First we login with your user and password on the link for the helpdesk page http://localhost/osTicket/scp/login.php
-   <img src="https://i.imgur.com/pe4GOKK.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+   <img src="https://i.imgur.com/FKoMYnQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
    
   - When you login we need to go to Admin Panel
- <img src="https://i.imgur.com/J5H85v5.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/jrmd4FC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
   - Configure Roles: Admin Panel -> Agents -> Roles 
 
- <img src="https://i.imgur.com/udcb7TJ.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/6ShullN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-- And we are going to add a new Role "Supreme Admin" and we are going to grant it all the permissions
+- And we are going to add a new Role "Supreme Admin" and we are going to grant it all the permissions on Tickets, Tasks and Knowledgebase
    
-  <img src="https://i.imgur.com/hZqzvo4.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+  <img src="https://i.imgur.com/hRKyjOF.png" height="40%" width="40%" alt="Disk Sanitization Steps"/> <img src="https://i.imgur.com/Z0LESHg.png" height="47%" width="47%" alt="Disk Sanitization Steps"/> 
 
 - Configure Departments: Admin Panel -> Agents -> Departments 
 
- <img src="https://i.imgur.com/M5PH3HD.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/TkpZefF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
  
   -  Let's add a new Department: "System Administrators" you don't need to configure anything else this is just an example
- <img src="https://i.imgur.com/u3svZyc.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ <img src="https://i.imgur.com/eSziVWN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 - Now we need a new team let's add Level II Suport
   <img src="https://i.imgur.com/Au9e0q0.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
